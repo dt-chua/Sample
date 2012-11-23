@@ -17,7 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    //testing
+    //testing lang to
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
